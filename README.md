@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='../preWorkThroughByMilan' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='preWorkThroughByMilan.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
